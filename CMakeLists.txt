@@ -21,6 +21,7 @@ set(IMGUI_SRC
     imgui_draw.cpp
     imgui_widgets.cpp
     imgui_demo.cpp
+    imgui_tables.cpp
 )
 
 include_directories(.)
